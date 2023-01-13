@@ -1,6 +1,6 @@
 import socket
 
-IP = "193.198.5.168" # IP direction of you PC
+IP = "192.168.8.158" # IP direction of you PC
 PORT = 5000
 
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
